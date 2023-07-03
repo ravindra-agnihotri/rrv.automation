@@ -1,0 +1,7 @@
+oops:
+
+1. inheritance- virasat, papa ki property apne aap milti hai:
+a. inheritance karane ke liye extends naam ka word child class ke aapge lagate hai
+b. Single - Parent se Child
+c. Multilevel - Parent se Child se ChildOfChild
+d. Multiple - because it confuses java that which variable to take
