@@ -1,0 +1,5 @@
+Access Modifiers/Specifier:
+public - a public member can be called anywhere in project(across the world)
+private - a Private var/method can be called only in class it is defined
+protected - a protected has access in package and if want to call outside package the relation required
+default - a default has access only in package, outside cant be called
