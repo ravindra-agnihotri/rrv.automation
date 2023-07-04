@@ -11,6 +11,7 @@ public class Basic {
     public static void main(String[] args) {
         StaticNVoid staticNVoid= new StaticNVoid();
         System.out.println(staticNVoid.abc);
+      //  System.out.println(AccessModifier.aPrivate);
 
     }
 }

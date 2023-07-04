@@ -12,5 +12,7 @@ public class ObjectAndConstructor {
 
     public static void main(String[] args) {
         System.out.println("cons");
+        System.out.println(AccessModifier.aProtected);
+        System.out.println(AccessModifier.aDefault);
     }
 }
