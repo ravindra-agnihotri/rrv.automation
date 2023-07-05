@@ -1,7 +1,7 @@
 package Vinod;
 
-public class Dada {
-    public  String jamin ="fifty ekar";
+public class dada {
+    public static String jamin ="fifty ekar";
 
     public static void main(String[] args) {
 
