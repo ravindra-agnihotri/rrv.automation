@@ -1,6 +1,6 @@
 package Vinod;
 
-public class dada {
+public class Dada {
     public static String jamin ="fifty ekar";
 
     public static void main(String[] args) {

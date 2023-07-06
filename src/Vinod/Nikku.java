@@ -9,7 +9,7 @@ public class Nikku extends father {
         System.out.println();
         father father =new father();
         System.out.println(father.jamin);
-        dada dada=new dada();
+        Dada dada=new Dada();
         System.out.println(dada.jamin);
         System.out.println();
         Nikku nikku= new Nikku();
