@@ -1,10 +1,13 @@
 package oopsConcepts.inh;
 
+import basics.VarTypes;
+
 public class Child extends Father{
 
 public String cycle="hero";
 
     public static void main(String[] args) {
+        System.out.println(VarTypes.global);
         System.out.println(Father.surname);
         Father father= new Father();
         System.out.println(father.car);
