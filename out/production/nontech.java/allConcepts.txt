@@ -1,0 +1,5 @@
+variable types:-
+
+global variable - a variable which can be called anywhere in project without object of class
+local variable - a variable which is defined inside a method
+instance variable - a variable which can be called by instance(object) of class

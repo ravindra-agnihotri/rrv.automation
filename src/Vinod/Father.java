@@ -1,6 +1,6 @@
 package Vinod;
 
-public class father extends Dada {
+public class Father extends Dada {
     public String jamin="do ekkar";
 
     public static void main(String[] args) {

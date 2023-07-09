@@ -13,4 +13,5 @@ public class Home {
     public void setDiamond(int diamond) {
         this.diamond = diamond;
     }
+
 }
