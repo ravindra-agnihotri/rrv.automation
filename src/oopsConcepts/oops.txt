@@ -6,3 +6,6 @@ oops:
     c. Multilevel - Parent se Child se ChildOfChild
     d. Multiple - because it confuses java that which variable to take
     e. Hybrid - refer screenshot attached
+2. Encapsulation - Getter , Setter
+3. Polymorphism - Overriding, Overloading
+4. Abstraction - Interface, Abstract Class
