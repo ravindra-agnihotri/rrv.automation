@@ -2,7 +2,7 @@ package oopsConcepts.abstraction;
 
 public class Client {
 
-    public static void main(String[] args) {
+    public static void hkhk(String[] args) {
         TeamLead teamLead= new Vinod("Ravi");
        teamLead.implementation();
         TeamLead teamLead1= new Ranjeet("Ravi");

@@ -1,6 +1,12 @@
 package basics;
 
 public class VarTypes {
+    //single  line comment
+    /*
+    multi line comment
+     */
+
+
 
 
     public static void main(String[] args) {
@@ -18,7 +24,20 @@ public class VarTypes {
         String local= "i am local";
     }
 
-    public void method1(){
+    /**
+     * document comment
+     * @param str
+     */
+    public void method1(String str){
+
+    }
+
+    /**ye methjod tume jo bhi parameter doge uska juice bana ke degi
+     *
+     * @param noOfFruit - isme kitne fruit dalne dal do lekin wo int
+     *                  typr ke hone chaiye
+     */
+    public void mixer(int noOfFruit){
 
     }
 

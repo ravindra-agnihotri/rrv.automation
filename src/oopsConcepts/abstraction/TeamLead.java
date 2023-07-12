@@ -1,6 +1,7 @@
 package oopsConcepts.abstraction;
 
 public abstract class TeamLead {
+    //isme 100% abstraction nahi hota
     //abstract class can have abstract as well as
     // non-abstract(defined ) methods
     //abstract class ka object nahi bana sakte kabhi
