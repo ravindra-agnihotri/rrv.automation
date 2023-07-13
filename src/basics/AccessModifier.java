@@ -1,6 +1,8 @@
 package basics;
 
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.InputStream;
 
 public class AccessModifier {
 
@@ -16,8 +18,11 @@ public class AccessModifier {
     //default
     static String aDefault= "my pet dog";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         System.out.println(aPrivate);
+
+        InputStream inputStream= new FileInputStream("kk");
+        inputStream.
 
     }
 

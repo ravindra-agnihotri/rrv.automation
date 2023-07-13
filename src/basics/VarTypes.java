@@ -13,6 +13,7 @@ public class VarTypes {
     public String marksheet= "dfgfdg";
 
     //local - any variable defined inside method or a method parameter is local var
+    //it has only limit inside method
     public void method(String i){
        // System.out.println(abc);
         String local= "i am local";

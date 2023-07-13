@@ -7,5 +7,13 @@ oops:
     d. Multiple - because it confuses java that which variable to take
     e. Hybrid - refer screenshot attached
 2. Encapsulation - Getter , Setter
+    encapsulation is having a private variable in my class(as it's a private, it cannot be called
+    outside of class), accessing its value outside of class by the help of public getter and setter
+    methods.
+
 3. Polymorphism - Overriding, Overloading
+
+    overloading- having a method with same name with diff parameters and maybe return type
+    overriding-  having a method with same name and same parameter and same return type
+    in my parent and child class
 4. Abstraction - Interface, Abstract Class
