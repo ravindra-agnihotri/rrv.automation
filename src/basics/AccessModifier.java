@@ -21,8 +21,7 @@ public class AccessModifier {
     public static void main(String[] args) throws FileNotFoundException {
         System.out.println(aPrivate);
 
-        InputStream inputStream= new FileInputStream("kk");
-        inputStream.
+
 
     }
 
